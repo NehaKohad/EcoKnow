@@ -4,12 +4,15 @@
 ---
 This project was made for the Human Computer Interaction (UE18CS348) course at PES University.
 ### Project deliverables :-
+* Need Finding
+* Heuristic Evaluation
+* Empathy Map 
 * Low Fidelity Prototype Sketch 
 * [High Fidelity Prototype on Figma](https://www.figma.com/proto/FrzLiLrkhuLXgJTqQxsSBV/EcoKnow-Wireframes?node-id=72%3A0&scaling=scale-down&page-id=0%3A1)
 * [Concept Video](https://youtu.be/SJqA2ZL_uDU)
 *  Presentation 
-*  Empathy Map 
-*  Heuristic Evaluation
+
+
 
 ### Members :-
 | Name                 | SRN           |
